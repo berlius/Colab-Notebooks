@@ -4,5 +4,5 @@ Here are links to my ready-to-use [Colaboratory Notebooks](https://colab.researc
 
 If you sometimes encounter an error message like "image file is truncated" during image processing, simply restart the runtime (Runtime -> Restart runtime ... or Ctrl + M)
 
-## 1. [Tensorflow implementation of Deep Photo Style Transfer](https://drive.google.com/file/d/1c1BvAm3yAszgNKjBC1wHpO9uz1PgL99v/view?usp=sharing) :
+1. [Tensorflow implementation of Deep Photo Style Transfer](https://drive.google.com/file/d/1c1BvAm3yAszgNKjBC1wHpO9uz1PgL99v/view?usp=sharing) :
 Transfer colors from one photo to another
