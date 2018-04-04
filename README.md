@@ -6,3 +6,6 @@ If you sometimes encounter an error message like "image file is truncated" durin
 
 1. [Tensorflow implementation of Deep Photo Style Transfer](https://drive.google.com/file/d/1c1BvAm3yAszgNKjBC1wHpO9uz1PgL99v/view?usp=sharing) :
 Transfer colors from one photo to another
+
+2. [Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields](https://drive.google.com/open?id=10yia7cQ4mb8MbhucaqhKfEzAv5u1WsTN) :
+[Project website](http://yongchengjing.com/StrokeControllable) 
