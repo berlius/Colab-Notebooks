@@ -9,3 +9,5 @@ Transfer colors from one photo to another
 
 2. [Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields](https://drive.google.com/open?id=10yia7cQ4mb8MbhucaqhKfEzAv5u1WsTN) :
 [Project website](http://yongchengjing.com/StrokeControllable) 
+
+3. [MUNIT: Multimodal UNsupervised Image-to-image Translation](https://drive.google.com/file/d/1DW_oDGBDwO2x_rm6UGocgBwWQSFg6ZEz/view?usp=sharing) : [nvidia announcement](https://blogs.nvidia.com/blog/2018/04/15/nvidia-research-image-translation/)
